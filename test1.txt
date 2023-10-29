@@ -1,2 +1,2 @@
 This is the file to understand sample scm
-Sample scm
+Sample scm at his timing
